@@ -1,0 +1,1 @@
+consumer: python main.py
